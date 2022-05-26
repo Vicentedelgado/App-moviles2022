@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "app-moviles2022": {
+      "hosting": {
+        "app": [
+          "app-moviles2022"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "app-moviles2022"
+  }
+}
