@@ -4,13 +4,13 @@
 
 export const environment = {
   firebase: {
-    projectId: 'app-moviles2022',
-    appId: '1:876894811368:web:0552240b0790ebb0e0855d',
-    storageBucket: 'app-moviles2022.appspot.com',
-    locationId: 'us-central',
-    apiKey: 'AIzaSyCxL4X9qqqA_jGNF1Y9aFAAPiNz4Z6l1MI',
-    authDomain: 'app-moviles2022.firebaseapp.com',
-    messagingSenderId: '876894811368',
+    apiKey: "AIzaSyBgQrurAZlRn6wL3SieLcf5Od7gFf2Fcl8",
+  authDomain: "proyectos-2022a.firebaseapp.com",
+  projectId: "proyectos-2022a",
+  storageBucket: "proyectos-2022a.appspot.com",
+  messagingSenderId: "631200823484",
+  appId: "1:631200823484:web:9bff68ef93cc81093bf8b9",
+  measurementId: "G-MKCMG9Y4B9"
   },
   production: false
 };
